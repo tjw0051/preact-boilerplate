@@ -1,0 +1,27 @@
+
+/* Text Size */
+
+
+.small {
+    font-size: 1em;
+}
+
+.medium {
+    font-size: 2em;
+}
+
+.large {
+    font-size: 3em;
+}
+
+/* Text Weight */
+
+.bold {
+    font-weight: bold;
+}
+
+/* Text Color */
+
+.text-dark {
+    color: #2b2b2b;
+}

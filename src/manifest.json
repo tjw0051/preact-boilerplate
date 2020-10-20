@@ -1,0 +1,17 @@
+{
+  "name": "Preact Unistore Boilerplate",
+  "short_name": "preact-unistore-boilerplate",
+  "description": "Preact Unistore Boilerplate",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#4d4d4d",
+  "theme_color": "#64D8D1",
+  "icons": [
+    {
+      "src": "/assets/icons/preact-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

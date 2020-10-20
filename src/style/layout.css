@@ -1,0 +1,30 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: #fafafa;
+    font-family: "Helvetica-Light", Helvetica, Arial,
+        "Lucida Grande", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#app {
+    height: 100%;
+}
+
+/* Layout */
+
+.flex-v {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-h {
+    display: flex;
+    flex-direction: row;
+}
